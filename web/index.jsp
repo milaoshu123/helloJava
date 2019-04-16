@@ -12,7 +12,7 @@
   </head>
   <body>
   <form action="test/register.do" method="post">
-    <div>姓名：<input type="text" name="name" placeholder="请输入姓名"></div>
+    <div>姓名1：<input type="text" name="name" placeholder="请输入姓名"></div>
     <div>年龄：<input type="text" name="age" placeholder="请输入年龄"></div>
     <input type="submit" value="注册">
   </form>
